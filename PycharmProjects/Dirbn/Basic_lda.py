@@ -48,3 +48,5 @@ class basic_lda():
                     new_vec[-1] = 1
                     for _ in range(vec[-1]):
                         self.res.append(new_vec)
+if __name__ == '__main__':
+    print ('adfad')
